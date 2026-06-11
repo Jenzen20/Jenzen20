@@ -1,21 +1,18 @@
-<!-- WAVING HEADER BANNER (animated) -->
+<!-- WAVING HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Jeno%20John%20Ciervo&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20BSIT%20Graduate%20%7C%20USTP-CDO&descAlignY=60&descSize=18&descColor=ffffff"/>
 
-<!-- TYPING SVG + CODER GIF side by side -->
 <div align="center">
 
 <a href="https://jenojhncrvoportfolio.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Jeno+%F0%9F%91%8B;Full-Stack+Web+Developer;BSIT+Graduate+%E2%80%94+USTP+CDO+%F0%9F%8E%93;I+build+real+things+for+real+clients+%F0%9F%9A%80;Fast+learner.+Always+shipping." alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- ANIMATED CODER GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coder gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coder gif"/>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
 <a href="mailto:ciervo.jenojohn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://jenojhncrvoportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <a href="https://github.com/Jenzen20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -30,14 +27,14 @@
 
 ```js
 const jeno = {
-  name:       "Jeno John Ciervo",
-  degree:     "BS Information Technology — USTP Cagayan de Oro",
-  graduated:  "June 25, 2026",
-  location:   "Talakag, Bukidnon, Philippines 🇵🇭",
-  portfolio:  "jenojhncrvoportfolio.netlify.app",
+  name:         "Jeno John Ciervo",
+  degree:       "BS Information Technology — USTP Cagayan de Oro",
+  graduated:    "June 25, 2026",
+  location:     "Talakag, Bukidnon, Philippines 🇵🇭",
+  portfolio:    "jenojhncrvoportfolio.netlify.app",
 
-  role:       "Full-Stack Web Developer",
-  focus:      ["React + Vite", "Node.js / Express", "RESTful APIs", "Flutter", "Laravel / Django"],
+  role:         "Full-Stack Web Developer",
+  focus:        ["React + Vite", "Node.js / Express", "RESTful APIs", "Flutter", "Laravel / Django"],
   alsoLearning: ["Python", "Machine Learning", "Pandas", "NumPy", "Google Colab"],
 
   realWork: [
@@ -46,8 +43,8 @@ const jeno = {
     "Capstone awarded Best in Web Dev & Documentation",
   ],
 
-  languages:  ["Filipino", "Cebuano", "English"],
-  motto:      "Even if I haven't done it before — I'll learn it fast and deliver better than expected.",
+  languages: ["Filipino", "Cebuano", "English"],
+  motto:     "Even if I haven't done it before — I'll learn it fast and deliver better than expected.",
 };
 ```
 
@@ -57,15 +54,12 @@ const jeno = {
 
 ## 🏆 Highlights
 
-<div align="center">
-
-| 🥇 Best in Capstone | Awarded Best in **Web Development & Documentation** — VMES II, USTP-CDO |
+| | |
 |---|---|
-| 🏛️ Government Internship | 486 hrs · USTP-VCRI · NTC QoS Project · Cert. by Vice Chancellor Engr. Alex L. Maureal |
-| 💼 Paid Freelance | Built & deployed real projects for paying clients — EnerTrack, Ambulatory Care System |
-| 🚀 Live Deployments | Multiple projects live on Netlify — not just repos, actual running apps |
-
-</div>
+| 🥇 **Best in Capstone** | Awarded Best in **Web Development & Documentation** — VMES II, USTP-CDO |
+| 🏛️ **Government Internship** | 486 hrs · USTP-VCRI · NTC QoS Project · Cert. by Vice Chancellor Engr. Alex L. Maureal |
+| 💼 **Paid Freelance** | Built & deployed real projects for paying clients — EnerTrack, Ambulatory Care System |
+| 🚀 **Live Deployments** | Multiple projects live on Netlify — not just repos, actual running apps |
 
 ---
 
@@ -74,16 +68,12 @@ const jeno = {
 ### 🏛️ IT Intern — VCRI Office, USTP-CDO
 **Feb – May 2026 · 486 hours · NTC QoS Project**
 
-<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="220"/>
-
 - Built & deployed a **full-stack web app** — React/Vite frontend, Node.js/Express backend, RESTful API
 - Developed a **confidential geospatial data conversion tool** for NTC QoS network data *(details under NDA)*
 - Conducted **IoT hardware inventory** — encoded 100+ assets into structured spreadsheets
 - Performed **IT technical support**: hardware/software troubleshooting, system monitoring, networking
 - Wrote **user manuals & technical documentation**; applied data privacy protocols throughout
 - 🎖️ **Awarded Certificate of Completion** by Vice Chancellor Engr. Alex L. Maureal — May 20, 2026
-
-<br clear="right"/>
 
 ---
 
@@ -118,7 +108,7 @@ const jeno = {
 ### 🚗 VMES II — Vehicle Monitoring E-System
 **🥇 Best in Capstone: Web Dev & Documentation · USTP-CDO · Jan 2026**
 
-> Upgraded USTP's vehicle monitoring system into a smart, IoT + ML-powered platform.
+> Upgraded USTP's vehicle monitoring system into a smart IoT + ML-powered platform.
 
 - **YOLOv8 + EasyOCR** — real-time license plate detection & text recognition
 - **RFID-based** vehicle identification with automatic validity computation
@@ -137,7 +127,6 @@ const jeno = {
 
 - Flashcards, quizzes, and progress tracking system
 - End-to-end: concept → design → development → live deployment
-- Shows ability to ship a complete product — even without a client
 
 `React` `Vite` `JavaScript` `Netlify`
 
@@ -147,7 +136,7 @@ const jeno = {
 
 <div align="center">
 
-**Frontend**
+**🖥️ Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -156,7 +145,7 @@ const jeno = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend**
+**⚙️ Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -165,20 +154,20 @@ const jeno = {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**Mobile**
+**📱 Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Database**
+**🗄️ Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools & DevOps**
+**🔧 Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -187,7 +176,7 @@ const jeno = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Also Learning 📚**
+**📚 Also Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -213,7 +202,7 @@ const jeno = {
 
 - 🔭 Polishing **EnerTrack** and **Ambulatory Care System** for portfolio
 - 📚 Self-studying **Machine Learning** — Python · Pandas · NumPy · Google Colab
-- 💼 Actively hunting for my **first full-time developer role or freelance gigs**
+- 💼 Actively looking for my **first full-time developer role or freelance projects**
 - 🧠 Exploring **digital marketing** and automation as complementary skills
 
 ---
@@ -226,9 +215,10 @@ Open to **entry-level developer roles**, **freelance projects**, or just talking
 
 ---
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jenzen20/Jenzen20/output/snake.svg" alt="contribution snake animation"/>
+
+<img src="https://raw.githubusercontent.com/Jenzen20/Jenzen20/output/snake.svg" alt="contribution snake"/>
+
 </div>
 
 <!-- WAVING FOOTER BANNER -->
