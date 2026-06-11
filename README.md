@@ -1,10 +1,10 @@
 <!-- WAVING HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Jeno%20John%20Ciervo&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20BSIT%20Graduate%20%7C%20USTP-CDO&descAlignY=60&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b2a4a,100:1f4068&height=180&section=header&text=Jeno%20John%20Ciervo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20BSIT%20Graduate%20%7C%20USTP-CDO&descAlignY=60&descSize=18&descColor=a8c7fa"/>
 
 <div align="center">
 
 <a href="https://jenojhncrvoportfolio.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Jeno+%F0%9F%91%8B;Full-Stack+Web+Developer;BSIT+Graduate+%E2%80%94+USTP+CDO+%F0%9F%8E%93;I+build+real+things+for+real+clients+%F0%9F%9A%80;Fast+learner.+Always+shipping." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Jeno+%F0%9F%91%8B;Full-Stack+Web+Developer;BSIT+Graduate+%E2%80%94+USTP+CDO+%F0%9F%8E%93;I+build+real+things+for+real+clients+%F0%9F%9A%80;Fast+learner.+Always+shipping." alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -17,7 +17,7 @@
 <a href="https://jenojhncrvoportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <a href="https://github.com/Jenzen20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.facebook.com/jeeenzennn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=jenzen20&style=for-the-badge&color=e94560&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=jenzen20&style=for-the-badge&color=0d76e3&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -226,4 +226,4 @@ Open to **entry-level developer roles**, **freelance projects**, or just talking
 </div>
 
 <!-- WAVING FOOTER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=e94560&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4068,50:1b2a4a,100:0d1b2a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
