@@ -217,11 +217,11 @@ Open to **entry-level developer roles**, **freelance projects**, or just talking
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jenzen20/Jenzen20/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jenzen20/Jenzen20/main/profile-3d-contrib/profile-season-animate.svg"/>
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Jenzen20/Jenzen20/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-</picture>
+[![Jeno's 3D Contribution Graph](https://commitpulse.vercel.app/api/graph?username=Jenzen20&theme=dracula&stats=true&width=900)](https://github.com/Jenzen20)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jenzen20&theme=tokyo-night&hide_border=true&area=true&area_color=e94560&color=e94560&line=4F8EF7&point=ffffff)](https://github.com/Jenzen20)
 
 </div>
 
