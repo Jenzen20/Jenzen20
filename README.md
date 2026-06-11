@@ -217,7 +217,11 @@ Open to **entry-level developer roles**, **freelance projects**, or just talking
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jenzen20/Jenzen20/output/snake.svg" alt="contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jenzen20/Jenzen20/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jenzen20/Jenzen20/main/profile-3d-contrib/profile-season-animate.svg"/>
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Jenzen20/Jenzen20/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+</picture>
 
 </div>
 
