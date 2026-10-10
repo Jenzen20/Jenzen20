@@ -1,10 +1,10 @@
 <!-- WAVING HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b2a4a,100:1f4068&height=180&section=header&text=Jeno%20John%20Ciervo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20BSIT%20Graduate%20%7C%20USTP-CDO&descAlignY=60&descSize=18&descColor=a8c7fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b2a4a,100:1f4068&height=180&section=header&text=Jeno%20John%20Ciervo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SEO%20Specialist%20%7C%201%20Year%20and%206%20Months%20SEO%20Experience%20%7C%20BSIT%20Graduate&descAlignY=60&descSize=18&descColor=a8c7fa"/>
 
 <div align="center">
 
 <a href="https://jenojhncrvoportfolio.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Jeno+%F0%9F%91%8B;Full-Stack+Web+Developer;BSIT+Graduate+%E2%80%94+USTP+CDO+%F0%9F%8E%93;I+build+real+things+for+real+clients+%F0%9F%9A%80;Fast+learner.+Always+shipping." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Jeno+%F0%9F%91%8B;SEO+Specialist;1+Year+and+6+Months+of+SEO+Experience;Keyword+Research+and+On-Page+SEO;Content+SEO+and+SEO+Audits" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -28,27 +28,30 @@
 ```js
 const jeno = {
   name:         "Jeno John Ciervo",
-  degree:       "BS Information Technology — USTP Cagayan de Oro",
+  degree:       "BS Information Technology, USTP Cagayan de Oro",
   graduated:    "June 25, 2026",
   location:     "Talakag, Bukidnon, Philippines 🇵🇭",
   portfolio:    "jenojhncrvoportfolio.netlify.app",
 
-  role:         "Full-Stack Web Developer",
-  focus:        ["React + Vite", "Node.js / Express", "RESTful APIs", "Flutter", "Laravel / Django"],
-  alsoLearning: ["Python", "Machine Learning", "Pandas", "NumPy", "Google Colab"],
+  role:         "SEO Specialist",
+  experience:   "1 year and 6 months in SEO",
+  focus:        ["Keyword Research", "Keyword Clustering", "Search Intent Mapping", "On-Page SEO", "Content SEO", "SEO Audits", "Content Planning", "Internal Linking"],
+  tools:        ["Semrush", "Google Search Console", "Webflow", "Google Sheets", "Google Docs"],
+  background:   ["Previous web development projects", "HTML and CSS", "JavaScript", "Website CMS workflows"],
 
   realWork: [
-    "Paid freelance projects delivered to actual clients",
+    "SEO research, content planning, and on-page tasks",
+    "Paid freelance projects delivered to clients",
     "486-hour government IT internship at USTP-VCRI",
-    "Capstone awarded Best in Web Dev & Documentation",
+    "Capstone awarded Best in Web Development and Documentation",
   ],
 
   languages: ["Filipino", "Cebuano", "English"],
-  motto:     "Even if I haven't done it before — I'll learn it fast and deliver better than expected.",
+  motto:     "I prefer practical SEO work, clear notes, and improvements that can be checked.",
 };
 ```
 
-> 💡 BSIT has no board exam — **portfolio and real-world experience are the credential.** Every project here is proof of that.
+> I use my IT background in my SEO work, especially when checking website structure, page details, and technical issues.
 
 ---
 
@@ -56,46 +59,79 @@ const jeno = {
 
 | | |
 |---|---|
-| 🥇 **Best in Capstone** | Awarded Best in **Web Development & Documentation** — VMES II, USTP-CDO |
-| 🏛️ **Government Internship** | 486 hrs · USTP-VCRI · NTC QoS Project · Cert. by Vice Chancellor Engr. Alex L. Maureal |
-| 💼 **Paid Freelance** | Built & deployed real projects for paying clients — EnerTrack, Ambulatory Care System |
-| 🚀 **Live Deployments** | Multiple projects live on Netlify — not just repos, actual running apps |
+| 🔎 **SEO Experience** | 1 year and 6 months of SEO experience across research, content, and on-page tasks |
+| 📊 **CR Maids Case Study** | 1,455 keywords organized, 13 topic clusters, and 46 URLs mapped during planning |
+| 🥇 **Capstone Award** | Best in **Web Development and Documentation** for VMES II, USTP-CDO |
+| 🏛️ **Government Internship** | 486 hours at USTP-VCRI on the NTC QoS project |
+| 💻 **Previous Web Development Work** | EnerTrack, Ambulatory Care System, VMES II, and Claire's LPT Study Corner |
+| 🎓 **Education** | BS Information Technology, USTP Cagayan de Oro |
 
 ---
 
 ## 💼 Work Experience
 
-### 🏛️ IT Intern — VCRI Office, USTP-CDO
-**Feb – May 2026 · 486 hours · NTC QoS Project**
+### 🔎 SEO Specialist / SEO VA
+**1 year and 6 months of SEO experience**
 
-- Built & deployed a **full-stack web app** — React/Vite frontend, Node.js/Express backend, RESTful API
+- Research keywords and group them by topic and search intent.
+- Map target keywords to relevant pages and content opportunities.
+- Review title tags, meta descriptions, headings, and internal links.
+- Prepare content briefs and on-page recommendations.
+- Update and publish website content through CMS tools when assigned.
+- Check site health, indexing, and sitemap details using SEO tools when needed.
+- Track tasks in spreadsheets and follow client confidentiality requirements.
+
+### 🏛️ IT Intern, VCRI Office, USTP-CDO
+**Feb to May 2026 · 486 hours · NTC QoS Project**
+
+- Built and deployed a full-stack web app using React/Vite, Node.js/Express, and a RESTful API.
 - Developed a **confidential geospatial data conversion tool** for NTC QoS network data *(details under NDA)*
-- Conducted **IoT hardware inventory** — encoded 100+ assets into structured spreadsheets
+- Conducted an IoT hardware inventory and recorded 100+ assets in structured spreadsheets.
 - Performed **IT technical support**: hardware/software troubleshooting, system monitoring, networking
 - Wrote **user manuals & technical documentation**; applied data privacy protocols throughout
-- 🎖️ **Awarded Certificate of Completion** by Vice Chancellor Engr. Alex L. Maureal — May 20, 2026
+- Received a Certificate of Completion from Vice Chancellor Engr. Alex L. Maureal on May 20, 2026.
 
 ---
 
 ## 🚀 Projects
 
-### ⚡ EnerTrack — Energy Monitoring Platform
+### 🔎 SEO Project
+
+#### CR Maids: Keyword Research and Site-Structure Planning
+**SEO Case Study | [View Portfolio](https://jenojhncrvoportfolio.netlify.app)**
+
+> Keyword research and planning for a cleaning company website.
+
+- Researched and organized 1,455 keywords.
+- Grouped related keywords into 13 topic clusters.
+- Mapped 46 URLs as part of site-structure planning.
+- Organized keyword targets and content recommendations for the next stage of SEO work.
+
+This case study covers research and planning only. It does not claim ranking or traffic improvements.
+
+---
+
+### 💻 Previous Web Development Projects
+
+These are projects I built before focusing my portfolio on SEO. I am keeping them here to show my technical background, which also helps me understand website structure and implementation.
+
+#### ⚡ EnerTrack: Energy Monitoring Platform
 **💰 Paid Client Project · [Live → g3enertrack.netlify.app](https://g3enertrack.netlify.app)**
 
-> Freelance project built and delivered solo for a client in Cagayan de Oro.
+> Built as a paid freelance project for a client in Cagayan de Oro.
 
 - Smart energy cost calculator using **local Meralco rate data**
 - Usage dashboard with **personalized energy-saving tips** and real-time calculations
-- Fully designed, developed, and deployed independently — from client brief to live URL
+- Designed, built, and deployed the project independently, from client brief to live website.
 
 `React` `Vite` `JavaScript` `Netlify`
 
 ---
 
-### 🏥 Ambulatory Care System — Healthcare Platform
+#### 🏥 Ambulatory Care System: Healthcare Platform
 **💰 Paid Client Project · Brokenshire College Inc., Davao City**
 
-> End-to-end healthcare platform built for real hospital use.
+> Healthcare platform developed for Brokenshire College Inc. in Davao City.
 
 - **Electronic Health Records (EHR)**, Telehealth module, and patient portal
 - **Clinical Decision Support** and appointment scheduling for real outpatient workflows
@@ -105,38 +141,57 @@ const jeno = {
 
 ---
 
-### 🚗 VMES II — Vehicle Monitoring E-System
+#### 🚗 VMES II: Vehicle Monitoring E-System
 **🥇 Best in Capstone: Web Dev & Documentation · USTP-CDO · Jan 2026**
 
-> Upgraded USTP's vehicle monitoring system into a smart IoT + ML-powered platform.
+> A vehicle monitoring system developed for USTP with IoT and machine learning features.
 
-- **YOLOv8 + EasyOCR** — real-time license plate detection & text recognition
+- Used **YOLOv8 and EasyOCR** for license plate detection and text recognition.
 - **RFID-based** vehicle identification with automatic validity computation
 - **Raspberry Pi 5** (8GB RAM) with optimized cooling for 24/7 operation
 - **Django backend** · PostgreSQL · WebSocket real-time dashboard · WebRTC live video
-- Built using **Agile methodology** — planned, designed, developed, tested, deployed in sprints
+- Followed **Agile methodology**, with work planned, developed, tested, and deployed in sprints.
 
 `Python` `Django` `YOLOv8` `EasyOCR` `RFID` `IoT` `PostgreSQL` `WebSocket` `Raspberry Pi`
 
 ---
 
-### 📚 Claire's LPT Study Corner — Personal Gift
+#### 📚 Claire's LPT Study Corner: Personal Gift
 **Personal Project · [Live → clairedelante.netlify.app](https://clairedelante.netlify.app)**
 
-> A full-featured study dashboard built as a personal gift for LPT board exam review.
+> A study dashboard I made as a personal gift for LPT board exam review.
 
 - Flashcards, quizzes, and progress tracking system
-- End-to-end: concept → design → development → live deployment
+- Planned, built, and deployed the dashboard.
 
 `React` `Vite` `JavaScript` `Netlify`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ SEO Skills & Tools
 
 <div align="center">
 
-**🖥️ Frontend**
+**🔎 SEO Skills**
+
+![Keyword Research](https://img.shields.io/badge/Keyword_Research-1f6feb?style=for-the-badge)
+![Keyword Clustering](https://img.shields.io/badge/Keyword_Clustering-1f6feb?style=for-the-badge)
+![Search Intent](https://img.shields.io/badge/Search_Intent-1f6feb?style=for-the-badge)
+![On-Page SEO](https://img.shields.io/badge/On--Page_SEO-1f6feb?style=for-the-badge)
+![Content SEO](https://img.shields.io/badge/Content_SEO-1f6feb?style=for-the-badge)
+![SEO Audits](https://img.shields.io/badge/SEO_Audits-1f6feb?style=for-the-badge)
+![Internal Linking](https://img.shields.io/badge/Internal_Linking-1f6feb?style=for-the-badge)
+![Content Planning](https://img.shields.io/badge/Content_Planning-1f6feb?style=for-the-badge)
+
+**🧰 SEO Tools**
+
+![Semrush](https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+
+**💻 Technical Background**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -200,16 +255,16 @@ const jeno = {
 
 ## 🌱 Right Now
 
-- 🔭 Polishing **EnerTrack** and **Ambulatory Care System** for portfolio
-- 📚 Self-studying **Machine Learning** — Python · Pandas · NumPy · Google Colab
-- 💼 Actively looking for my **first full-time developer role or freelance projects**
-- 🧠 Exploring **digital marketing** and automation as complementary skills
+- 🔎 Working on keyword research, on-page SEO, and content updates.
+- 📊 Improving how I document SEO findings and track tasks.
+- 💼 Looking for remote SEO Specialist and SEO VA opportunities.
+- 📚 Building my SEO portfolio with work samples that I am allowed to share.
 
 ---
 
 ## 📬 Let's Connect
 
-Open to **entry-level developer roles**, **freelance projects**, or just talking tech and building things.
+Open to **SEO Specialist roles**, **SEO VA work**, and projects focused on keyword research, on-page SEO, and content optimization.
 
 📧 **ciervo.jenojohn@gmail.com** &nbsp;|&nbsp; 📱 **+63 954 399 3696** &nbsp;|&nbsp; 🌐 **[jenojhncrvoportfolio.netlify.app](https://jenojhncrvoportfolio.netlify.app)**
 
